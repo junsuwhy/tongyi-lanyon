@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>東億事件簿</title>
- <link href="http://0.0.0.0:8080/atom.xml" rel="self"/>
- <link href="http://0.0.0.0:8080/"/>
- <updated>2016-10-31T06:27:18+00:00</updated>
- <id>http://0.0.0.0:8080</id>
+ <link href="https://junsuwhy.github.io/tongyi-lanyon//tongyi-lanyon/atom.xml" rel="self"/>
+ <link href="https://junsuwhy.github.io/tongyi-lanyon//tongyi-lanyon/"/>
+ <updated>2016-10-31T06:30:16+00:00</updated>
+ <id>https://junsuwhy.github.io/tongyi-lanyon/</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
